@@ -47,3 +47,34 @@ opacity:0.8;
 li:hover{
 background-color:red;
 }
+@media(max-width:420px){
+h1{
+font-size:28px;
+}
+span{
+display:none;
+}
+ul{
+font-size: small;
+}
+.home{
+    float: left;
+    margin: -7px;
+}
+.teampic{
+width:358px;
+}
+body{
+    background-image:url('bg.png');
+    background-size:cover;
+    background-attachment:fixed;
+    overflow:hidden;
+}
+.cap{
+    display: none;
+}
+.logo{
+    width: 46px;
+}
+
+}

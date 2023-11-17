@@ -76,5 +76,10 @@ body{
 .logo{
     width: 46px;
 }
+font{
+    padding: 3px;
+    font-size:28px;
+}
+
 
 }
